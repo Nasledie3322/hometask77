@@ -1,0 +1,14 @@
+C:\Users\mardin\Desktop\Homee work\Task3\bin\Debug\net9.0\Task3.exe
+C:\Users\mardin\Desktop\Homee work\Task3\bin\Debug\net9.0\Task3.deps.json
+C:\Users\mardin\Desktop\Homee work\Task3\bin\Debug\net9.0\Task3.runtimeconfig.json
+C:\Users\mardin\Desktop\Homee work\Task3\bin\Debug\net9.0\Task3.dll
+C:\Users\mardin\Desktop\Homee work\Task3\bin\Debug\net9.0\Task3.pdb
+C:\Users\mardin\Desktop\Homee work\Task3\obj\Debug\net9.0\Task3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mardin\Desktop\Homee work\Task3\obj\Debug\net9.0\Task3.AssemblyInfoInputs.cache
+C:\Users\mardin\Desktop\Homee work\Task3\obj\Debug\net9.0\Task3.AssemblyInfo.cs
+C:\Users\mardin\Desktop\Homee work\Task3\obj\Debug\net9.0\Task3.csproj.CoreCompileInputs.cache
+C:\Users\mardin\Desktop\Homee work\Task3\obj\Debug\net9.0\Task3.dll
+C:\Users\mardin\Desktop\Homee work\Task3\obj\Debug\net9.0\refint\Task3.dll
+C:\Users\mardin\Desktop\Homee work\Task3\obj\Debug\net9.0\Task3.pdb
+C:\Users\mardin\Desktop\Homee work\Task3\obj\Debug\net9.0\Task3.genruntimeconfig.cache
+C:\Users\mardin\Desktop\Homee work\Task3\obj\Debug\net9.0\ref\Task3.dll
