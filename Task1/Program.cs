@@ -1,10 +1,10 @@
-﻿Console.WriteLine("Enter name for Teacher:");
+﻿Console.WriteLine("Enter name for teacher:");
         string teacherName = Console.ReadLine();
 
-        Console.WriteLine("Enter name for first Student:");
+        Console.WriteLine("Enter name for first student:");
         string student1Name = Console.ReadLine();
 
-        Console.WriteLine("Enter name for second Student:");
+        Console.WriteLine("Enter name for second student:");
         string student2Name = Console.ReadLine();
         Person[] people = new Person[3];
         people[0] = new Teacher(teacherName);
